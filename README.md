@@ -1,4 +1,4 @@
-<h2> Explanation of Optimized Bubble Sort code in C lang.</h>
+<h2> Explanation of Optimized Bubble Sort code in C lang.</h2>
 <p>&emsp; Please take a look at the images, I have tried to traverse or Dry Run the code using pen paper with the example you have provided.<br>
 <li>On the first page, using a traditional method of Bubble Sort, the total <b>Comparisons</b> required to sort the array and end the code was <b>6<b>, and the total <b>passes<b> required was n-1 i.e. <b>3</b>.</li>
 So, here the time complexity will be 6 for a "for nested loop" and passes were 3 so <b>the total time Complexity is 6+3+1 swap = 10</b><br><br>
